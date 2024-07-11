@@ -1,0 +1,21 @@
+.p,
+.p-cooler {
+    background-color: #FF7377;
+    color: #000000;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.p-cooler {
+    font-size: 24px;
+}
+
+#div-1 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#div-2 {
+    background-color: #00FF00;
+    font-size: 24px;
+    font-weight: bold;
+}
